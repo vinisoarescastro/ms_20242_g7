@@ -1,4 +1,7 @@
+
+[![My Skills](https://skillicons.dev/icons?i=git,html,css,nodejs,js,figma&theme=light)](https://skillicons.dev)
 # Sistema de Provas
+
 
 Este repositório contém o desenvolvimento de um **Sistema de Provas**, parte da disciplina **Modelagem de Software**, ministrada pelo professor **Gilmar** na **Universidade Federal de Goiás (UFG)**.
 
