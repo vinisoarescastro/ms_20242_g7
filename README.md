@@ -14,12 +14,12 @@ O sistema tem como objetivo automatizar e gerenciar o processo de aplicação, c
 
 | Matrícula  | Nome                                 | GitHub                                                |
 |------------|--------------------------------------|-------------------------------------------------------|
-| 202403066  | Davi Augusto Ferreira de Carvalho    | [Clique aqui](https://github.com/usuario)             |
-| 202400696  | Eduardo Divido Miranda Pereira       | [Clique aqui](https://github.com/usuario)             |
-| 202403080  | Kezer dos Santos Souza               | [Clique aqui](https://github.com/usuario)             |
+| 202403066  | Davi Augusto Ferreira de Carvalho    | [Clique aqui](https://github.com/DaviAugusto778)      |
+| 202400696  | Eduardo Divido Miranda Pereira       | [Clique aqui](https://github.com/sedivino)            |
+| 202403080  | Kezer dos Santos Souza               | [Clique aqui](https://github.com/KezerSouza)          |
 | 202206163  | Vinicius Soares Castro               | [Clique aqui](https://github.com/vinisoarescastro)    |
 
 ## Tecnologias Utilizadas
-- **Linguagem de Programação**: [Adicione aqui a linguagem utilizada, ex: Python, JavaScript]
-- **Frameworks**: [Adicione aqui os frameworks, ex: Django, React]
-- **Banco de Dados**: [Ex: MySQL, PostgreSQL]
+- **Linguagem de Programação**: 
+- **Frameworks**: 
+- **Banco de Dados**: 
