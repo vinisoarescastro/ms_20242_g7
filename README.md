@@ -24,4 +24,5 @@ Esse projeto será desenvolvido pelos integrantes do Grupo 7:
 
 ### Backlog do produto
 
-
+1. RF001.0 - <Cadastro de professores e autenticação>.
+2. RF001.1 - <Funcionalidade de criação de contas para professores, com login e autenticação segura.>.
