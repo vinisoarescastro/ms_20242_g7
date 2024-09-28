@@ -70,3 +70,24 @@ Esse projeto será desenvolvido pelos integrantes do Grupo 7:
 |001| Definição do Grupo                        | Indisponível  | Indisponível  | Grupo         | Concluído     |
 |002| Definição do Tema                         | Indisponível  | Indisponível  | Grupo         | Concluído     |
 |003| Definição do Backlog do Sistema           | Indisponível  | Indisponível  | Grupo         | Em andamento  |
+
+### HIstórias de Usuário
+
+| Código HU                       |Descrição                                                                                                                                                              |
+|---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.1 - Cadastro de Usuário       | COMO UM professor EU QUERO me cadastrar no sistema PARA QUE eu possa criar e gerenciar minhas provas.                                                                 |
+| 1.2 - Login                     | COMO UM professor EU QUERO fazer login no sistema usando meu e-mail e senha PARA QUE eu possa acessar minhas provas e resultados.                                     |
+| 1.3 - Criação de Prova          | COMO UM coordenador EU QUERO criar uma nova prova, incluindo questões de diferentes níveis de dificuldade PARA QUE meus alunos possam ser avaliados de forma justa.   |
+| 1.4 - Edição de Prova           | COMO UM professor EU QUERO editar uma prova existente PARA QUE eu possa corrigir erros ou adicionar novas questões.                                                   |
+| 1.5 - Geração de QR Code        | COMO UM professor EU QUERO que um QR code único seja gerado para cada aluno em suas provas PARA QUE eu possa facilitar a identificação na hora da correção.           |
+| 1.6 - Design de Garabito        | COMO UM coordenador EU QUERO que o gabarito seja gerado automaticamente na prova PARA QUE os alunos possam marcar suas respostas de forma clara e organizada.         |
+| 1.7 - Visualização de Provas    | COMO UM professor EU QUERO visualizar uma lista de todas as provas que criei PARA QUE eu possa rapidamente acessar e gerenciar cada uma delas.                        |
+| 1.8 - Inscrição dos Alunos      | COMO UM coordenador EU QUERO inscrever meus alunos nas provas de forma rápida PARA QUE todos estejam prontos para participar das avaliações.                          |
+| 1.9 - Correção Automática       | COMO UM professor EU QUERO usar o aplicativo para escanear o QR code e o garabito dos alunos PARA QUE eu possa corrigir as provas automaticamente e economizar tempo. |
+| 2.0 - Geração de Relatórios     | COMO UM coordenador EU QUERO gerar relatórios com o desempenho dos alunos em cada prova PARA QUE eu possa identificar áreas que precisam de melhorias.                |
+| 2.1 - Notificação de Resultados | COMO UM professor EU QUERO que os alunos recebam notificações sobre seus resultados PARA QUE eles possam acompanhar seu desempenho.                                   |
+| 2.2 - Suporte ao Aluno          | COMO UM aluno EU QUERO acessar um suporte dentro do sistema PARA QUE eu possa esclarecer dúvidas sobre a prova ou sobre o processo de correção.                       |
+| 2.3 - Redefinição de Senha:     | COMO UM professor EU QUERO poder redefinir minha senha caso a esqueça PARA QUE eu sempre tenha acesso à minha conta.                                                  |
+| 2.4 - Feedback sobre a Prova    | COMO UM aluno EU QUERO fornecer feedback sobre a prova após a correção PARA QUE os professores possam melhorar as avaliações futuras.                                 |
+| 2.5 - Acesso Móvel              | COMO UM professor EU QUERO que o sistema seja acessível em dispositivos móveis PARA QUE eu possa corrigir provas e gerenciar atividades mesmo fora da sala de aula.   |
+
