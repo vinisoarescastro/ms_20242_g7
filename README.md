@@ -90,4 +90,5 @@ Esse projeto será desenvolvido pelos integrantes do Grupo 7:
 | 2.3 - Redefinição de Senha:     | COMO UM professor EU QUERO poder redefinir minha senha caso a esqueça PARA QUE eu sempre tenha acesso à minha conta.                                                  |
 | 2.4 - Feedback sobre a Prova    | COMO UM aluno EU QUERO fornecer feedback sobre a prova após a correção PARA QUE os professores possam melhorar as avaliações futuras.                                 |
 | 2.5 - Acesso Móvel              | COMO UM professor EU QUERO que o sistema seja acessível em dispositivos móveis PARA QUE eu possa corrigir provas e gerenciar atividades mesmo fora da sala de aula.   |
+Teste teste
 
