@@ -9,9 +9,9 @@ window.document.getElementById('loginForm').addEventListener('submit', function(
     const validPassword = '12345678';
 
     if (emailCpf === validEmailCpf && password === validPassword) {
-        window.location.href = 'index-page-principal.html';
+        window.location.href = '../html/index-page-principal.html';
     } else {
-        msgErro.innerHTML = 'Email/CPF ou senha inválidos. Tente novamente!';
+        msgErro.style.display = 'flex';
     }
 
 })

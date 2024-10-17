@@ -4,11 +4,13 @@ import extrairGabarito as exG
 
 
 campos = []                                 # lista para armazenar os campos
-with open('campos.pkl', 'rb') as arquivo:   # abre o arquivo
+with open('C:\\Users\\70555119173\\Documents\\GitHub\\ms_20242_g7\\python\\extrairGabarito e mainWebcan\\campos.pkl', 'rb') as arquivo:   # abre o arquivo
+# with open('campos.pk', 'rb') as arquivo:   # abre o arquivo
     campos = pickle.load(arquivo)           # carrega os campos
 
 resp = []                                   # lista para armazenar as respostas
-with open('resp.pkl', 'rb') as arquivo:     # abre o arquivo
+with open('C:\\Users\\70555119173\\Documents\\GitHub\\ms_20242_g7\\python\\extrairGabarito e mainWebcan\\resp.pkl', 'rb') as arquivo:     # abre o arquivo
+# with open('resp.pkl', 'rb') as arquivo:     # abre o arquivo
     resp = pickle.load(arquivo)             # carrega as respostas
 
 respostasCorretas = ["1-C","2-B","3-D","4-A","5-C"]  # respostas corretas
