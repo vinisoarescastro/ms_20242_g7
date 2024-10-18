@@ -65,22 +65,22 @@ Esse projeto será desenvolvido pelos integrantes do Grupo 7:
 
 ### Atividades
 
-| **ID** | **Tarefa**                                     | **Data de Início**  | **Data de Fim**    | **Responsável**  | **Situação**      |
-|--------|------------------------------------------------|---------------------|--------------------|------------------|-------------------|
-| 001    | Definição do Grupo                             | Indisponível        | Indisponível       | Grupo            | Concluído         |
-| 002    | Definição do Tema                              | Indisponível        | Indisponível       | Grupo            | Concluído         |
-| 003    | Definição do Backlog do Sistema                | Indisponível        | Indisponível       | Grupo            | Em andamento      |
-| 004    | Modelo de Gabarito para Script Python          | Indisponível        | Indisponível       | Vinicius         | Concluído         |
-| 005    | Script Python para Extração de Gabarito        | Indisponível        | Indisponível       | Vinicius         | Concluído         |
-| 006    | Script Python para Leitura de Gabarito         | Indisponível        | Indisponível       | Vinicius         | Concluído         |
-| 007    | Desenvolvimento da Aplicação Web: Login        | Indisponível        | Indisponível       | Vinicius         | Concluído         |
-| 008    | Desenvolvimento da Aplicação Web: Principal    | Indisponível        | Indisponível       | Vinicius         | Concluído         |
-| 009    | Desenvolvimento da Aplicação Web: Questões     | Indisponível        | Indisponível       | Kezer            | Não iniciado      |
-| 010    | Desenvolvimento da Aplicação Web: Provas       | Indisponível        | Indisponível       | Kezer            | Não iniciado      |
-| 011    | Desenvolvimento da Aplicação Web: Simulados    | Indisponível        | Indisponível       | Kezer            | Não iniciado      |
-| 009    | Desenvolvimento da Aplicação Web: Correções    | Indisponível        | Indisponível       | Davi             | Não iniciado      |
-| 010    | Desenvolvimento da Aplicação Web: Relatório    | Indisponível        | Indisponível       | Davi             | Não iniciado      |
-| 011    | Desenvolvimento da Aplicação Web: Turmas       | Indisponível        | Indisponível       | Davi             | Não iniciado      |
+| **ID** | **Tarefa**                                     | **Início**    | **Fim**       | **Responsável**| **Status**        |
+|--------|------------------------------------------------|---------------|---------------|----------------|-------------------|
+| 001    | Definição do Grupo                             | Indisponível  | Indisponível  | Grupo          | ✅ Concluído      |
+| 002    | Definição do Tema                              | Indisponível  | Indisponível  | Grupo          | ✅ Concluído      |
+| 003    | Definição do Backlog do Sistema                | Indisponível  | Indisponível  | Grupo          | 🔄 Em andamento   |
+| 004    | Modelo de Gabarito para Script Python          | Indisponível  | Indisponível  | Vinicius       | ✅ Concluído      |
+| 005    | Script Python para Extração de Gabarito        | Indisponível  | Indisponível  | Vinicius       | ✅ Concluído      |
+| 006    | Script Python para Leitura de Gabarito         | Indisponível  | Indisponível  | Vinicius       | ✅ Concluído      |
+| 007    | Desenvolvimento da Aplicação Web: Login        | Indisponível  | Indisponível  | Vinicius       | ✅ Concluído      |
+| 008    | Desenvolvimento da Aplicação Web: Principal    | Indisponível  | Indisponível  | Vinicius       | ✅ Concluído      |
+| 009    | Desenvolvimento da Aplicação Web: Questões     | 18/10/2024    | 28/10/2014    | Kezer          | 🟡 A fazer        |
+| 010    | Desenvolvimento da Aplicação Web: Provas       | 18/10/2024    | 28/10/2014    | Kezer          | 🟡 A fazer        |
+| 011    | Desenvolvimento da Aplicação Web: Simulados    | 18/10/2024    | 28/10/2014    | Kezer          | 🟡 A fazer        |
+| 009    | Desenvolvimento da Aplicação Web: Correções    | 18/10/2024    | 28/10/2014    | Davi           | 🟡 A fazer        |
+| 010    | Desenvolvimento da Aplicação Web: Relatório    | 18/10/2024    | 28/10/2014    | Davi           | 🟡 A fazer        |
+| 011    | Desenvolvimento da Aplicação Web: Turmas       | 18/10/2024    | 28/10/2014    | Davi           | 🟡 A fazer        |
 
 
 ### HIstórias de Usuário
