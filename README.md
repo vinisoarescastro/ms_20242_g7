@@ -85,7 +85,7 @@ Esse projeto será desenvolvido pelos integrantes do Grupo 7:
 
 ### HIstórias de Usuário
 
-| Código HU                       |Descrição                                                                                                                                                              |
+| Código HU                       | Descrição                                                                                                                                                             |
 |---------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.1 - Cadastro de Usuário       | COMO UM professor EU QUERO me cadastrar no sistema PARA QUE eu possa criar e gerenciar minhas provas.                                                                 |
 | 1.2 - Login                     | COMO UM professor EU QUERO fazer login no sistema usando meu e-mail e senha PARA QUE eu possa acessar minhas provas e resultados.                                     |
